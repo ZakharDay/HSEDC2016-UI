@@ -3,6 +3,12 @@
 @import 'font-awesome.css';
 
 @import 'basics.css';
+
 @import 'menubar.css';
+@import 'menubar_compact.css';
+
 @import 'sidebar.css';
+@import 'sidebar_compact.css';
+
 @import 'content.css';
+@import 'content_compact.css';
